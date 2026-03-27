@@ -2,7 +2,7 @@
 #a = np.array([1,2,3])
 #print(a)
 #from numpy import array
-import numpy as np
+import numpy_test as np
 fam=["alif",1.75,"samim",1.70,"abbu",1.68,"ammu",1.65,"dadi",1.50]
 extra_fam=fam +["me",1.78]
 print(str(len(extra_fam))+ "element in extra_fam")
