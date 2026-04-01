@@ -5,5 +5,5 @@ plt.scatter(year,pop)
 plt.title("World Population Growth")   #  figure title
 plt.xlabel("Year")                     #  x-axis label
 plt.ylabel("Population (Billions)")   #  y-axis label
-plt.savefig("D:/DATACAMP/intro_to_Python/plots/population_plot_scatter.png")
+plt.savefig("D:/DATACAMP/plots/population_plot_scatter.png")
 plt.show()
